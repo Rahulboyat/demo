@@ -179,17 +179,13 @@ body {
 
 }
 
-
-
-
 @media only screen and (max-width: 500px) {
     .carousel-inner img {
-        height: 230px;
+      height:230px
         width:100%
 
-
-
     }
+    
 }
 
 
