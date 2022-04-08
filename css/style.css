@@ -65,10 +65,8 @@ body {
         height: 70vh;
        display: flex;
        flex-direction: column;
-       z-index: 999;
        
-
-
+       
     }
 
 
@@ -80,13 +78,7 @@ body {
     .menu_list li{
         margin-top: 16px;
 
-       
-    }
-
-    
-
-
-    
+    }    
 }
 
 .nav .menu_list li {
