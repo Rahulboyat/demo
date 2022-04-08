@@ -130,9 +130,8 @@ body {
 
 .nav .menu_list li a.active,
 .nav .menu_list li a:hover {
-
     color: orange;
-
+    
 }
 
 
@@ -215,9 +214,7 @@ body {
 @media only screen and ( max-width: 500px) {
     .carousel-inner img {
         height: 230px;
-
-
-
+        width:100%;
     }
 }
 
@@ -270,8 +267,7 @@ body {
 @keyframes move {
     0% {
         color: black;
-
-
+        
     }
 
     100% {
